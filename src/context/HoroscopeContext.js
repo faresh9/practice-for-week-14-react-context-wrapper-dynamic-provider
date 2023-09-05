@@ -4,7 +4,7 @@ export const HoroscopeContext = createContext();
 
 
 const HoroscopeProvider = props =>{
-  const 
+
   return(
     <HoroscopeContext.Provider>
     {props.children}

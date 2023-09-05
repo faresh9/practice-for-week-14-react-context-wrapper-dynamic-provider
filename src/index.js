@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import { HoroscopeProvider } from "./context/HoroscopeContext";
+import HoroscopeProvider from "./context/HoroscopeContext";
 
 const Root = () => {
   return (
